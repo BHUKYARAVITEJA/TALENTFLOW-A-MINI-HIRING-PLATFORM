@@ -1,2 +1,8 @@
 # TALENTFLOW-A-MINI-HIRING-PLATFORM
 TalentFlow is a comprehensive front-end React application designed as a mini hiring platform for HR teams. This is a frontend-only implementation that uses Mock Service Worker (MSW) to simulate a backend API and IndexedDB (via Dexie) for local data persistence
+## Key Features
+1. Jobs Board Management - Create, edit, archive, and reorder job postings with drag-and-drop functionality
+2. Candidate Management - Track 1000+ candidates through hiring stages using a Kanban board interface
+3. Assessment Builder - Create dynamic, multi-section assessments with conditional logic and live preview
+## Technical Architecture
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/9ea7f167-c8ad-4284-9509-1344fe8f0543" />
