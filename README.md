@@ -23,17 +23,5 @@ TalentFlow is a comprehensive front-end React application designed as a mini hir
 1. Radix UI for accessible component primitives
 2. Lucide React for icons
 3. React Hot Toast for notifications
-## Architecture Pattern
-This application follows a layered architecture:
-┌─────────────────────────────────────────┐
-│ React Components (UI)               │
-├─────────────────────────────────────────┤
-│ Redux Store (State Management)      │
-├─────────────────────────────────────────┤
-│ Axios API Client (HTTP)             │
-├─────────────────────────────────────────┤
-│ MSW Handlers (Mock API Layer)       │
-├─────────────────────────────────────────┤
-│ Dexie/IndexedDB (Persistence Layer) │
-└─────────────────────────────────────────┘
+
 
