@@ -21,11 +21,22 @@ TalentFlow is a comprehensive front-end React application designed as a mini hir
 - Axios as HTTP client
 
 ### Application Layered Architecture
-React Components (UI)
-Redux Store (State Management)
-Axios API Client (HTTP)
-MSW Handlers (Mock API Layer)
-Dexie/IndexedDB (Persistence Layer)
+- React Components (UI)
+- Redux Store (State Management)
+- Axios API Client (HTTP)
+- MSW Handlers (Mock API Layer)
+- Dexie/IndexedDB (Persistence Layer)
+
+
+---
+
+## Project Setup
+
+### Step 1: Initialize Project
+
+npm create vite@latest talentflow -- --template react-ts
+cd talentflow
+
 
 
 
